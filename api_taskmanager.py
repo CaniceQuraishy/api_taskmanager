@@ -6,4 +6,4 @@ class Task:
         self.is_completed = False    # Status of the task, set to not completed initially
 
     def mark_as_completed(self):
-        self.is_completed = True  # Set the task as completed
+        self.is_completed = True  # Set the task status as completed
